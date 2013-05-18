@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>SarcDataScienceCoursera</name>
+	<name>DataScience</name>
 	<comment></comment>
 	<projects>
+		<project>SarcDataScienceCoursera</project>
 	</projects>
 	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
 	</buildSpec>
 	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
 	</natures>
 </projectDescription>
